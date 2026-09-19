@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**FNAl3/FNAl3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior System Administrator & Cybersecurity enthusiast, focused on scripting, automation, and deploying secure environments across Linux and Windows.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+* **Operating Systems:** Linux (Debian, Arch, Fedora), Windows Server / Client.
+* **Languages & Scripting:** Python, PowerShell, Bash.
+* **Networking & Security:** Traffic analysis, hardening, pentesting, and auditing tools.
+* **Virtualization & Environments:** Proxmox VE, Docker, VirtualBox, Hyprland.
+
+---
+
+### 📌 Featured Projects
+
+* [**ShadowArch**](https://github.com/FNAl3/ShadowArch) - Custom security-focused Arch Linux distribution development.
+* [**PenTools**](https://github.com/FNAl3/PenTools) - Python-based utilities and scripts tailored for auditing tasks.
+* [**ForenSuite**](https://github.com/FNAl3/ForenSuite) - PowerShell automation for forensic tasks and analysis.
+* [**Windows-Auto-Installer-Script**](https://github.com/FNAl3/Windows-Auto-Installer-Script) - PowerShell script for automated deployments in Windows environments.
+
+---
+
+### 📬 Contact
+
+* **LinkedIn**

@@ -21,7 +21,3 @@ Junior System Administrator & Cybersecurity enthusiast, focused on scripting, au
 * [**Windows-Auto-Installer-Script**](https://github.com/FNAl3/Windows-Auto-Installer-Script) - PowerShell script for automated deployments in Windows environments.
 
 ---
-
-### 📬 Contact
-
-* **LinkedIn**
